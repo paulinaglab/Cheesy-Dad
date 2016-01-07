@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0097A7</color>
+    <color name="colorPrimaryDark">#00838F</color>
+    <color name="colorAccent">#CDDC39</color>
+
+
+    <!-- Joke background colors -->
+    <color name="color_lime">#b6c621</color>
+    <color name="color_light_green">#7CB342</color>
+    <color name="color_aqua">#08c4ab</color>
+    <color name="color_cyan">#00ACC1</color>
+    <color name="color_light_blue">#039BE5</color>
+    <color name="color_blue">#3F51B5</color>
+    <color name="color_purple">#7E57C2</color>
+
+    <array name="joke_background_colors">
+        <item>@color/color_lime</item>
+        <item>@color/color_light_green</item>
+        <item>@color/color_aqua</item>
+        <item>@color/color_cyan</item>
+        <item>@color/color_light_blue</item>
+        <item>@color/color_blue</item>
+        <item>@color/color_purple</item>
+    </array>
+
+</resources>
